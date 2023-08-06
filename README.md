@@ -1,2 +1,3 @@
 # Steganography
-Steganography hides secret data in plain sight, enhancing security. It combines with encryption for added protection. The term originates from Greek: "stegos" (hidden) + "graph" (writing).
+Steganography hides secret data in plain sight, enhancing security. It combines with encryption for added protection. The term originates from Greek: "stegos"(hidden) + "graph" (writing).Steganography possesses the capability to discreetly mask a wide array of digital content, encompassing text, images, videos, or audio elements. The data intended for concealment can be effectively inserted within various forms of digital content. Referred to as "hidden text," this content is frequently subjected to encryption prior to its integration into seemingly benign cover text files or data streams. In instances where encryption is omitted, the hidden text often undergoes specific alterations to heighten the challenge of uncovering the confidential material.
+
