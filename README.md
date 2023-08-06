@@ -10,3 +10,4 @@ Here are the key features of the encoding/decoding process for hiding text withi
 4) Message Retrieval: If the "decode" option is selected, users need to "select" the image containing the hidden message. Once the image is uploaded, the concealed 
    message will be displayed. Clicking on "cancel" will exit this process.
 
+These features provide a straightforward and user-friendly interface for encoding and decoding messages within images. Users have the flexibility to hide and retrieve messages securely, enhancing the privacy of their communications.
